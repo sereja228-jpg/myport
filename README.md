@@ -17,5 +17,7 @@
    - Двойной клик по файлу
    - ИЛИ перетащите файл в окно браузера
 
-## Ссылка на GitHub Pages
+ Ссылка на GitHub Pages
+
+ https://github.com/sereja228-jpg/myport.git
 
